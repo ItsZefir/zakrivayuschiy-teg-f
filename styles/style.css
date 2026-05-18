@@ -40,6 +40,7 @@
 
 .header__title {
   font-size: 65px;
+  text-decoration: none;
 }
 
 .header__description {
